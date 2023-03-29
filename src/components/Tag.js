@@ -19,7 +19,7 @@ export default function Tag() {
 
   return (
     <div className="bg-blue-500 w-1/2 flex flex-col items-center rounded-lg border border-black gap-y-5 mt-[30px]">
-      <h1 className="font-bold text-2xl underline text-center mt-[15px]">
+      <h1 className="font-bold text-2xl underline text-center mt-[15px] uppercase">
         RANDOM {tag} GIF
       </h1>
 
